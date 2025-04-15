@@ -1017,7 +1017,7 @@ def parse_answer_key():
 
 def main():
     # Replace with your actual Google Form URL
-    form_url = "https://docs.google.com/forms/d/e/1FAIpQLSeBtdn1krW4DVeekXjvW8jqDMs-KfmFOhv-fnKC_s_fJnp-5A/viewform"
+    form_url = "GOOGLE FORM URL"
 
     # Parse the answer key (convert from A,B,C,D to 0,1,2,3)
     answers = parse_answer_key()
